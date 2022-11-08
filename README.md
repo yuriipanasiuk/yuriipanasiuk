@@ -1,5 +1,9 @@
-### Hi there, I'm Yurii 👋
+### Hi there 👋, I'm Yurii
 
+![](https://komarev.com/ghpvc/?username=yuriipanasiuk)
+
+- 💪 I like to write code
+- ⚡ I am constantly learning new things
 - 📫 How to reach me: **yuriipanasiuk@gmail.com**
 
 ### My stack
@@ -35,3 +39,5 @@
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?yuriipanasiuk=anuraghazra&theme=dark&show_icons=true)
