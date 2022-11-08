@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yurii
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=yuriipanasiuk)
 
 - 💪 I like to write code
 - ⚡ I am constantly learning new things
